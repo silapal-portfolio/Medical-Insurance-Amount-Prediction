@@ -2,9 +2,6 @@
 
 This repository contains an end-to-end Machine Learning project demonstrating data preprocessing, model building, visualization, and evaluation using **Linear Regression**.
 
-🔗 **GitHub Profile:** https://github.com/srinithi-21tharma  
-📌 Actively seeking **AIML Engineer Internship Opportunities**
-
 ---
 
 ## 📘 Project Overview
@@ -30,6 +27,3 @@ This project demonstrates:
 - Seaborn  
 - Jupyter Notebook  
 
----
-
-## 📁 Project Structure
